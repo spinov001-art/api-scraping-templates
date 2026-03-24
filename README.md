@@ -215,6 +215,10 @@ print(f"{loc['country']}, {loc['city']} | ISP: {loc['isp']}")
 | Dog CEO | `dog.ceo/api/` | Random dog images |
 | Countries REST | `restcountries.com/v3.1/` | Country data |
 
+## Tutorials
+
+- [Price Monitoring System with Free APIs](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6) — Sitemaps + JSON-LD + GitHub as database = $0/month price tracker
+
 ## All My Projects
 
 - [77 Web Scraping Tools](https://github.com/spinov001-art/awesome-web-scraping-2026) — Awesome list, 9 stars
