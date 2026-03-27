@@ -226,6 +226,16 @@ print(f"{loc['country']}, {loc['city']} | ISP: {loc['isp']}")
 - [Free API Collection](https://github.com/spinov001-art/free-api-collection) — 30+ APIs, no key
 - [250+ Tutorials on Dev.to](https://dev.to/0012303) — Web scraping, APIs, data extraction
 
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+
 ## License
 
 MIT — use these templates freely in your projects.
