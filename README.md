@@ -46,7 +46,7 @@ comments = get_comments("dQw4w9WgXcQ")
 ```
 
 **Full RAG pipeline:** [youtube-rag-knowledge-base](https://github.com/spinov001-art/youtube-rag-knowledge-base)
-**Tutorial:** [YouTube Innertube API Guide](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
+**Tutorial:** [YouTube Innertube API Guide](https://github.com/spinov001-art/youtube-rag-knowledge-base)
 
 ---
 
@@ -72,7 +72,7 @@ for pkg in results:
     print(f"{name}: {downloads.get('downloads', 0):,} downloads/week")
 ```
 
-**Tutorial:** [npm Registry API Guide](https://dev.to/0012303/npm-registry-api-discover-packages-in-any-tech-niche-no-key-needed-3c72)
+**Tutorial:** [npm Registry API Guide](https://docs.npmjs.com/)
 
 ---
 
@@ -103,7 +103,7 @@ for p in papers:
     print(f"{p['published']} | {p['title']}")
 ```
 
-**Tutorial:** [arXiv API Guide](https://dev.to/0012303/arxiv-api-search-2m-research-papers-programmatically-no-key-59i6)
+**Tutorial:** [arXiv API Guide](https://arxiv.org/help/api)
 
 ---
 
@@ -123,7 +123,7 @@ for p in papers:
     print(f"{p.get('title', ['?'])[0][:80]} | cited: {p.get('is-referenced-by-count', 0)}")
 ```
 
-**Tutorial:** [Crossref API Guide](https://dev.to/0012303/crossref-api-search-130m-research-papers-programmatically-no-key-needed-b7b)
+**Tutorial:** [Crossref API Guide](https://www.crossref.org/documentation/retrieve-metadata/rest-api/)
 
 ---
 
@@ -217,14 +217,14 @@ print(f"{loc['country']}, {loc['city']} | ISP: {loc['isp']}")
 
 ## Tutorials
 
-- [Price Monitoring System with Free APIs](https://dev.to/0012303/i-built-a-price-monitoring-system-in-30-minutes-heres-the-stack-all-free-apis-1cg6) — Sitemaps + JSON-LD + GitHub as database = $0/month price tracker
+- [Price Monitoring System with Free APIs](https://github.com/spinov001-art/api-scraping-templates) — Sitemaps + JSON-LD + GitHub as database = $0/month price tracker
 
 ## All My Projects
 
 - [77 Web Scraping Tools](https://github.com/spinov001-art/awesome-web-scraping-2026) — Awesome list, 9 stars
 - [YouTube RAG Pipeline](https://github.com/spinov001-art/youtube-rag-knowledge-base) — Build AI knowledge base from YouTube
 - [Free API Collection](https://github.com/spinov001-art/free-api-collection) — 30+ APIs, no key
-- [250+ Tutorials on Dev.to](https://dev.to/0012303) — Web scraping, APIs, data extraction
+- [250+ Projects on GitHub](https://github.com/spinov001-art) — Web scraping, APIs, data extraction
 
 
 
