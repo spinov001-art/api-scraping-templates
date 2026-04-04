@@ -5,7 +5,7 @@
 Each template is a standalone script — just `pip install requests` and run.
 
 > **Need custom data extraction?** I build production scrapers and data pipelines.
-> [See my tools](https://github.com/spinov001-art/awesome-web-scraping-2026) | [Hire me](https://spinov001-art.github.io) | [Email](mailto:Spinov001@gmail.com)
+> [See my tools](https://github.com/spinov001-art/awesome-web-scraping-2026) | email **spinov001@gmail.com** — free quote in 2 hours | [Email](mailto:Spinov001@gmail.com)
 
 ## Templates
 
